@@ -10,6 +10,8 @@
 
       {{> loginButtons}}
 
+      {{> hello }}
+
       {{#if currentUser}}
         <form class="new-task">
           <input type="text" name="text" placeholder="Type to add new tasks" />
@@ -24,3 +26,7 @@
     </ul>
   </div>
 </body>
+
+<template name="hello">
+  hello, CS 160!
+</template>

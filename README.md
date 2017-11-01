@@ -9,3 +9,13 @@ Learn how to build this app by following the [Meteor Tutorial](http://www.meteor
 Read more about building apps with Meteor in the [Meteor Guide](http://guide.meteor.com).
 
 ![screenshot](screenshot.png)
+
+# Jeremy's notes:
+# Working through:
+
+- development note (c9/local)
+- app structure
+- event handlers
+- saving data in mongo (comes w/ meteor)
+- adding nametag to message
+- sharing more than one 
